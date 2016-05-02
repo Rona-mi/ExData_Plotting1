@@ -91,6 +91,17 @@ date. There should be four PNG files and four R code files.
 
 The four plots that you will need to construct are shown below. 
 
+##Solution
+* Get_clean_data.R - includes downloading and cleaning data.
+* Plot[1-4].R - plotting tasks.
+* plot[1-4].png - constructed plots
+
+##Running instructions:
+Set the current working directory to the root folder of this project.
+You don't need to source "Get_clean_data.R" , but it should be at the same derictory with Plot[1-4].R which sources "Get_clean_data.R" inside.
+
+##Output:
+Every Plot[1-4].R outputs plot[1-4].png. 
 
 ### Plot 1
 
